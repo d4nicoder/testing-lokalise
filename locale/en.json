@@ -4,5 +4,8 @@
     },
     "lastname": {
         "translation": "Last name"
+    },
+    "age": {
+        "translation": "Age"
     }
 }

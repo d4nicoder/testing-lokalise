@@ -1,3 +1,6 @@
 {
-  "name": "Name"
+  "name": "Name",
+  "Age": "Age",
+  "Country": "Country",
+  "Gender": "Gender"
 }

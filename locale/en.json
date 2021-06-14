@@ -3,5 +3,6 @@
     "lastname": "Last name",
     "Age": "Age",
     "Country": "Country",
-    "Gender": "Gender"
+    "Gender": "Gender",
+    "Brand": "Brand"
 }

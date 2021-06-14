@@ -1,11 +1,7 @@
 {
-    "name": {
-        "translation": "Name"
-    },
-    "lastname": {
-        "translation": "Last name"
-    },
-    "age": {
-        "translation": "Age"
-    }
+    "name": "Name",
+    "lastname": "Last name",
+    "Age": "Age",
+    "Country": "Country",
+    "Gender": "Gender"
 }

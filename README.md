@@ -1,2 +1,2 @@
 # testing-lokalise
-This is test
+This is a test
